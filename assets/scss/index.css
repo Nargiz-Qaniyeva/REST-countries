@@ -1,0 +1,51 @@
+.form-control {
+  padding-top: 12px;
+}
+
+.fa-solid {
+  margin-top: 15px;
+}
+
+.fa-solid .fa-moon {
+  size: 20%;
+}
+
+.navbar-brand {
+  padding-left: 50px;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: aqua;
+  padding-right: 70px;
+}
+
+.form-select {
+  size: 200px;
+}
+
+.dark-mode {
+  background-color: #4d4949;
+  color: black;
+}
+
+.filter {
+  max-width: 14%;
+}
+
+.search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.search .filter {
+  padding-top: 10px;
+}

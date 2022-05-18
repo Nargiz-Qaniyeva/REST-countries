@@ -1,0 +1,36 @@
+.form-control{
+    padding-top: 12px;
+}
+.fa-solid{
+    margin-top: 15px;
+    .fa-moon{
+        size: 20%;
+    }
+}
+.navbar-brand{
+    padding-left: 50px;
+    
+}
+nav{
+    display: flex;
+    position: sticky;
+    background-color: aqua;
+    padding-right: 70px;
+}
+.form-select{
+    size: 200px;
+}
+.dark-mode {
+    background-color: rgb(77, 73, 73);
+    color: rgb(0, 0, 0);
+}
+.filter{
+    max-width: 14%;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    .filter{
+        padding-top: 10px;
+    }
+}
